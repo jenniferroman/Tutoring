@@ -1,7 +1,30 @@
 body{
-    background-color: teal;
+    background-color: steelblue;
+    width: 100%;
 }
-h1,h2{
+
+h1{
     text-align: center;
-    color:peachpuff;
+    color:cornsilk;
+    width: 50%%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    text-align: left;
+    color:cornsilk;
+    width: 50%%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ol{
+    text-align: left;
+    color:cornsilk;
+}
+
+.pokemon{
+    background-image: url(https://flaviathebibliophileblog.files.wordpress.com/2016/08/pokemon-reading.gif?w=310);
+    width: 100%;
 }
